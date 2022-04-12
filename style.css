@@ -1,0 +1,97 @@
+.l1 {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 30px;
+    color: red;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    text-align: left;
+}
+
+.l2 {
+    font-family: 'Azeret Mono', monospace;
+    font-size: 30px;
+    color: red;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    text-align: center
+}
+.l3 {
+  font-family: 'Azeret Mono', monospace;
+  font-size: 30px;
+  color: red;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  text-align: right
+}
+
+
+
+.l1:hover {
+    background-color: dodgerblue;
+}
+
+.l2:hover {
+    background-color: dodgerblue;
+}
+.l3:hover {
+  background-color: dodgerblue;
+}
+
+
+
+.menu {
+    display: inline ;
+    text-decoration: none;
+}
+
+#solar_eclipse{
+    float: center;    
+}
+.solar_eclipse1{
+ float: left;  
+}
+.book
+{
+  cursor: pointer;
+}
+
+.sport 
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+.a{
+    color: linear-gradient(#1e00ff 100%)
+}
+.k{
+  text-align: right;
+}
+.img {
+  text-align: center;
+}
